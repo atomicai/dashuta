@@ -1,0 +1,5 @@
+polars==0.19.19
+yfinance==0.2.54
+loguru==0.7.3
+pyarrow==19.0.1
+ruff==0.9.9
